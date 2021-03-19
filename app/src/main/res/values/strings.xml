@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">localizacionGps</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="parar_actualizaciones">localizacionGps</string>
+    <string name="activity_vertical_margin">localizacionGps</string>
+    <string name="iniciar_actualizaciones">localizacionGps</string>
+    <string name="btnCapturar">Capturar</string>
+
+
+
+</resources>
